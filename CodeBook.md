@@ -1,6 +1,7 @@
 Variables mentioned in R code:
 
 feat- features.txt file
+
 activ- activity_labels.txt file
 
 The folllowing files were obtained from test folder
