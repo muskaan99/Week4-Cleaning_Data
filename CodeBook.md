@@ -5,9 +5,13 @@ feat- features.txt file
 activ- activity_labels.txt file
 
 The folllowing files were obtained from test folder
+
 subject_test- subject_test.txt file
+
 X_test-X_test file
+
 y_test- y_test file
+
 
 The folllowing files were obtained from train folder
 subject_train- subject_train file
